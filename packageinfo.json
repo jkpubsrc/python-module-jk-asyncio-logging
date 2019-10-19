@@ -1,0 +1,53 @@
+{
+	"language": "python3",
+	"name": "jk_asyncio_logging",
+	"version": "0.2019.10.19",
+	"meta": {
+		"description": "This is a logging framework. It is based on jk_logging but can be used with Asyncio.",
+		"keywords": [
+			"debugging",
+			"logging",
+			"asyncio"
+		],
+		"license": "Apache 2.0",
+		"development_status": "stable",
+		"authors": [
+			{
+				"name": "Jürgen Knauth",
+				"email": "pubsrc@binary-overflow.de"
+			}
+		],
+		"wiki": {
+			"page": "DevDocs:jk_asyncio_logging"
+		}
+	},
+	"repositories": [
+		{
+			"type": "github",
+			"user": "jkpubsrc",
+			"project": "python-module-jk-asyncio-logging",
+			"devon_publish": false
+		},
+		{
+			"type": "pypy",
+			"project": "jk_asyncio_logging",
+			"devon_publish": false
+		}
+	],
+	"source": {
+		"packages": [
+			"jk_asyncio_logging"
+		],
+		"extra_data_files": [
+		]
+	},
+	"requirements": {
+		"python_packages": [
+			"jk_logging",
+			"jk_asyncio_syncasync"
+		],
+		"python_packages_dev": [
+		]
+	}
+}
+
