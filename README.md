@@ -8,7 +8,7 @@ This python module ...
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/....)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-asyncio-logging)
 * [pypi.python.org](https://pypi.python.org/pypi/jk_asyncio_logging)
 
 Why this module?
